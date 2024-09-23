@@ -9,7 +9,7 @@ consultorias vem entregando aos seus clientes.
 O objetivo desse projeto será realizar ensaios com algoritmos de Classificação, Regressão e
 Clusterização, para estudar a mudança do comportamento da performance, a medida que os
 valores dos principais parâmetros de controle de overfitting e underfitting mudam.
-#3. Planejamento da solução
+# 3. Planejamento da solução
 ## 3.1 Produto final
 O produto final será 7 tabelas mostrando a performance dos algoritmos, avaliados usando múltiplas
 métricas, para 3 conjuntos de dados diferentes: Treinamento, validação e teste.
