@@ -40,20 +40,29 @@ O conjunto de valores que fizerem os algoritmos alcançarem a melhor performance
 escolhidos para o treinamento final do algoritmo.
 ## 4.2 O passo a passo
 Passo 1: Divisão dos dados em treino, teste e validação.
+
 Passo 2: Treinamento dos algoritmos com os dados de treinamento, utilizando os parâmetros
 “default”.
+
 Passo 3: Medir a performance dos algoritmos treinados com o parâmetro default, utilizando o
 conjunto de dados de treinamento.
+
 Passo 4: Medir a performance dos algoritmos treinados com o parâmetro “default”, utilizando o
 conjunto de dados de validação.
+
 Passo 5: Alternar os valores dos principais parâmetros que controlam o overfitting do algoritmo até
 encontrar o conjunto de parâmetros apresente a melhor performance dos algoritmos.
+
 Passo 6: Unir os dados de treinamento e validação
+
 Passo 7: Retreinar o algoritmo com a união dos dados de treinamento e validação, utilizando os
 melhores valores para os parâmetros de controle do algoritmo.
+
 Passo 8: Medir a performance dos algoritmos treinados com os melhores parâmetro, utilizando o
 conjunto de dados de teste.
+
 Passo 9: Avaliar os ensaios e anotar os 3 principais Insights que se destacaram.
+
 # 5. Os top 3 Insights
 ## 5.1 Insight Top 1
 Os algoritmos baseado em árvores possuem uma performance melhores em todas as métricas,
@@ -67,7 +76,7 @@ uma necessidade de uma seleção de atributos e uma preparação melhor das vari
 independentes do conjunto de dados.
 # 6. Resultados
 
-#Ensaio de Classificação:
+# Ensaio de Classificação:
 ## 6.1 Sobre os dados de treinamento
 ![image](https://github.com/user-attachments/assets/565f2654-87f6-430c-8b0d-a4ba97ed36a9)
 
