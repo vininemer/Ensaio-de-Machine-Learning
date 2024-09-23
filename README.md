@@ -14,20 +14,23 @@ valores dos principais parâmetros de controle de overfitting e underfitting mud
 O produto final será 7 tabelas mostrando a performance dos algoritmos, avaliados usando múltiplas
 métricas, para 3 conjuntos de dados diferentes: Treinamento, validação e teste.
 ## 3.2 Algoritmos ensaiados
-Classificação:
-Algoritmos: KNN, Decision Tree, Random Forest e Logistic Regression
+### Classificação:
+Algoritmos: KNN, Decision Tree, Random Forest e Logistic Regression 
+
 Métricas de performance: Accuracy, Precision, Recall e F1-Score
-Regressão:
+### Regressão:
 Algoritmos: Linear Regression, Decision Tree Regressor, Random Forest Regressor, Polinomial
 Regression, Linear Regression Lasso, Linear Regression Ridge, Linear Regression Elastic Net,
 Polinomial Regression Lasso, Polinomial Regression Ridge e Polinomial Regression Elastic Net
+
 Métricas de performance: R2, MSE, RMSE, MAE e MAPE
 
-Agrupamento:
+### Agrupamento:
 Algoritmos: K-Means e Affinity Propagation
+
 Métricas de performance: Silhouette Score
 ##3.3 Ferramentas utilizadas:
-1. Python 3.8 e Scikit-learn
+ Python 3.8 e Scikit-learn
 # 4. Desenvolvimento
 ## 4.1 Estratégia da solução
 Para o objetivo de ensaiar os algoritmos de Machine Learning, eu vou escrever os códigos
